@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48d37df9-9394-4607-9850-d17b32763156" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Svelte Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1doJK0ctjdzWNl37I9FQezFzXZF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/backdrop" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lubsen\Documents\repositories\svelte-stream-hud\src\backdrop" />
+      <recent name="C:\Users\lubsen\Documents\repositories\svelte-stream-hud\src\overlay" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts />
+      <arguments value="dev" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.install" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48d37df9-9394-4607-9850-d17b32763156" name="Default Changelist" comment="" />
+      <created>1593085444869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593085444869</updated>
+      <workItem from="1593085448631" duration="9093000" />
+      <workItem from="1593161577364" duration="2880000" />
+      <workItem from="1593681115071" duration="33433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Template_Data_Languages" timestamp="1593713947845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Template_Data_Languages/0.0.1920.1040@0.0.1920.1040" timestamp="1593713947845" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593095791518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593095791518" />
+    <state x="740" y="224" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1593094665982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="224" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593094665982" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593696070759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593696070759" />
+    <state x="1326" y="369" key="FileChooserDialogImpl" timestamp="1593766273225">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1326" y="369" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1593766273225" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593094672780" />
+    <state width="1980" height="281" key="GridCell.Tab.0.bottom" timestamp="1593849916059">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1980" height="281" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1593849916059" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593759818979" />
+    <state width="1980" height="281" key="GridCell.Tab.0.center" timestamp="1593849916059">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1980" height="281" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1593849916059" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593759818978" />
+    <state width="1980" height="281" key="GridCell.Tab.0.left" timestamp="1593849916059">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1980" height="281" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1593849916059" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593759818978" />
+    <state width="1980" height="281" key="GridCell.Tab.0.right" timestamp="1593849916059">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1980" height="281" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1593849916059" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593759818978" />
+    <state x="790" y="389" key="com.intellij.ide.util.TipDialog" timestamp="1593681123361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1416" y="523" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1593161600317" />
+    <state x="790" y="389" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593681123361" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1593701850883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593701850883" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593760503281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593760503281" />
+  </component>
+</project>
